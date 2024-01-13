@@ -3,7 +3,7 @@ const Passwordgenheader = () => {
     return (
         <>
 
-               <h2>Password Generator</h2>
+               <h2>Password Generator By Kuntal</h2>
 
         </>
 
